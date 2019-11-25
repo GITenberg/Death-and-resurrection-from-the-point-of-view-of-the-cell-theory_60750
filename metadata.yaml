@@ -1,16 +1,21 @@
 _repo: Death-and-resurrection-from-the-point-of-view-of-the-cell-theory_60750
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Fries, J. E.
     gutenberg_agent_id: '51124'
     url: http://www.gutenberg.org/2009/agents/51124
+covers:
+- cover_type: archival
+  image_path: 60750-h/images/cover.jpg
 creator:
   author:
     agent_name: Björklund, Gustaf
     gutenberg_agent_id: '51123'
     url: http://www.gutenberg.org/2009/agents/51123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60750#Death-and-resurrection-from-the-point-of-view-of-the-cell-theory
 gutenberg_issued: '2019-11-20'
 gutenberg_type: Text
 identifiers:
